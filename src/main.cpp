@@ -9,7 +9,6 @@
 #include "config/config.h"
 
 #include "esp_log.h"
-#include "driver/uart.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 
